@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+p{
+    font-family: "roboto",Arial;
+    margin: 3px;
+    padding: 0;
+}
+input{
+    display: block;
+    margin-bottom: 10px;
+}
